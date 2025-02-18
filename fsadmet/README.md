@@ -1,5 +1,5 @@
 
-# MolFeSCue: Enhancing Molecular Property Prediction in Data-Limited and Imbalanced Contexts using Few-Shot and Contrastive Learning
+# Model Architecture
 
 ## Introduction
 This is the source code and dataset for the above paper. If you have any questions, please contact [zrc720@gmail.com](zrc720@gmail.com)
