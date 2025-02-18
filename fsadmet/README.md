@@ -3,14 +3,9 @@
 ![](doc/model.png)
 # :memo: Dataset Download
 
-##### We have provided the datasets in the "data" folder.
+We have provided the datasets in the "data" folder.
 
 
-
-
-
-
-# Model Architecture
 
 ## Create environment
 ```
@@ -31,7 +26,8 @@ python train_fewshot.py
 ```
 
 
-
 ## Reference
-1. We use the code from project [Meta-MGNN](https://github.com/zhichunguo/Meta-MGNN). Thanks for their contribution.
-2. We use pretrained model from Project [Snap Stanford](https://github.com/snap-stanford/pretrain-gnns/tree/master/chem/model_gin) and [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1). Thanks for their contribution.
+1. We use the code from project [Meta-MGNN](https://github.com/zhichunguo/Meta-MGNN) and [MolFeSCue](https://github.com/zhangruochi/MolFeSCue/tree/master). Thanks for their contribution.
+
+
+
