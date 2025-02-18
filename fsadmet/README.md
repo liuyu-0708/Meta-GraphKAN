@@ -1,6 +1,6 @@
 
 # :rocket: Model Architecture
-![doc/model.png]
+![](doc/model.png)
 # :memo: Dataset Download
 
 ##### We have provided the datasets in the "data" folder.
