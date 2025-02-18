@@ -26,7 +26,7 @@ python train_fewshot.py
 ```
 
 
-## :hugging_face: Reference
+## :smile: Reference
 1. We use the code from project [Meta-MGNN](https://github.com/zhichunguo/Meta-MGNN) and [MolFeSCue](https://github.com/zhangruochi/MolFeSCue/tree/master). Thanks for their contribution.
 
 
