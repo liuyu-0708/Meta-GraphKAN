@@ -1,0 +1,18 @@
+experimentName: molfescue_hpo
+searchSpaceFile: ./search_space.json
+trialCommand: python train_fewshot.py
+trialCodeDirectory: ..
+trialGpuNumber: 1
+trialConcurrency: 10
+maxExperimentDuration: 24h
+maxTrialNumber: 1000
+tuner:
+  name: TPE
+  classArgs:
+    optimize_mode: maximize
+assessor:
+  name: Medianstop
+trainingService:
+  platform: local
+  useActiveGpu: True
+  maxTrialNumberPerGpu: 5
