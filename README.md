@@ -1,6 +1,6 @@
 
 ## :rainbow: Model Architecture
-![](doc/model.png)
+![](fsadmet/doc/model.png)
 ## :memo: Dataset Download
 
 We have provided the datasets in the "data" folder.
